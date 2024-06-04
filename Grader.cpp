@@ -44,7 +44,7 @@ int main()
     else{
         grade = 'F';
     }
-    
+   
     cout << "STU_ID: " << ID<<endl;
     cout << "NAME: "<< name<<endl;
     cout << "You had " << score<< " in "<<subject<< " and that is "<< grade <<endl;
