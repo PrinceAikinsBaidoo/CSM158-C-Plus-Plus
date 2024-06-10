@@ -22,5 +22,7 @@ int main(){
         cout << j << "\n";
     }
 
+    
+
     return 0;
 }
